@@ -1,2 +1,3 @@
 # Data-analysis-and-Big-data
-Common real-world-like task on medium-large dataset Operations demonstrated: - Read csv - Filter - Group by + multiple aggregations - Sort - Simple calculation/new column - Final top N 
+This is a single, end-to-end Python program that starts from basic data loading and incrementally moves toward a production-grade, multi-engine analytics pipeline using the same dataset (flight_delays.csv).
+This design reflects how real-world data systems evolve from simple scripts to enterprise-ready analytics engines.
